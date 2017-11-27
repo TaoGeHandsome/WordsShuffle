@@ -1,8 +1,8 @@
-*
-!./*.db/
-!./*/*.info
-!./*/*.data
-!.*exe
-!.gitignore
-!README.md
-!LICENSE
+db_bak
+*.frm
+*.frx
+*.bas
+*.SCC
+*.vbp
+*.vbw
+
