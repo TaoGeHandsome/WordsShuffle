@@ -1,7 +1,7 @@
 *
 
 !*.db/
-!.exe
+!.*exe
 !.gitignore
-!.README.md
+!README.md
 !LICENSE

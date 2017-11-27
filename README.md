@@ -1,2 +1,2 @@
-# WordsShuffle_db
+# WordsShuffle
 Words shuffler's database backup.
