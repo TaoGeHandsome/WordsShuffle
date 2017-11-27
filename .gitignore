@@ -1,7 +1,7 @@
 *
-
-!*.info
-!*.data
+!./*.db/
+!./*/*.info
+!./*/*.data
 !.*exe
 !.gitignore
 !README.md
