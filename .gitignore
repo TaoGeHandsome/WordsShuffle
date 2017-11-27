@@ -1,0 +1,7 @@
+*
+
+!*.db/
+!.exe
+!.gitignore
+!.README.md
+!LICENSE
